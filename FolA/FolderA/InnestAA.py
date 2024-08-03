@@ -1,5 +1,5 @@
 
 
 class InnestAA:
-    def printInnestAA():
+    def printInnestAA(self):
         print("You have reached InnestAA!")

@@ -1,5 +1,5 @@
 
 
 class InnestD:
-    def printInnestD():
+    def printInnestD(self):
         print("This is InnestD!")

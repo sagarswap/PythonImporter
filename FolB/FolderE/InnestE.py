@@ -1,5 +1,5 @@
 
 
 class InnestE:
-    def printInnestE():
+    def printInnestE(self):
         print("This is InnestE!")

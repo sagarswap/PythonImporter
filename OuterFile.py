@@ -1,5 +1,5 @@
 
 
 class OuterFile:
-    def printOuterFile():
+    def printOuterFile(self):
         print("You have reached the outer file.")

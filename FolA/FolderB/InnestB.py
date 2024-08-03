@@ -1,5 +1,5 @@
 
 
 class InnestB:
-    def printInnestB():
+    def printInnestB(self):
         print("You have reached InnestB")

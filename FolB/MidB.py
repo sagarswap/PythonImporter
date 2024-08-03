@@ -1,5 +1,5 @@
 
 
 class MidB:
-    def printMidB():
+    def printMidB(self):
         print("You have reached MidB!")

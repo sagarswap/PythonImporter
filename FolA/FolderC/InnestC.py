@@ -1,5 +1,5 @@
 
 
 class InnestC:
-    def printInnestC():
+    def printInnestC(self):
         print("This is innestC")
